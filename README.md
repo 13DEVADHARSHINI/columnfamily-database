@@ -18,32 +18,32 @@ The tables are:
 
 The student table include
            student_id (UUID PRIMARY KEY)
-           first_name                          
-           last_name 
-           email 
-           phone 
-           address 
-           date_of_birth 
+           first_name,                          
+           last_name, 
+           email,
+           phone,
+           address, 
+           date_of_birth.
 
 The courses table include
           course_id (UUID PRIMARY KEY)
-          course_name 
-          department
-          instructor
-          start_date
-          end_date
+          course_name,
+          department,
+          instructor,
+          start_date,
+          end_date,
 
 
 The enrollements table include
-         student_id (UUID)
-         course_id (UUID)
-         enroll_date 
+         student_id (UUID),
+         course_id (UUID),
+         enroll_date.
 
 
 The grades table include
-        student_id (UUID)
-        course_id (UUID)
-        grade 
+        student_id (UUID),
+        course_id (UUID),
+        grade.
 
 Syntax for creating a table
            
