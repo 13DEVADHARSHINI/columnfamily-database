@@ -1,6 +1,6 @@
 
       COLUMN FAMILY DATABASE
-        (CASSENDRA DATABASE)
+        (CASSANDRA DATABASE)
 
 
 To create a Cassandra database for a college management system, we would first need to identify the different entities that we need to store data for, and then create tables accordingly using Cassendra query language.
