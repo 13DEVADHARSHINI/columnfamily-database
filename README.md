@@ -3,7 +3,7 @@
         (CASSANDRA DATABASE)
 
 
-To create a Cassandra database for a college management system, we would first need to identify the different entities that we need to store data for, and then create tables accordingly using Cassendra query language.
+To create a Cassandra database for a college management system, we would first need to identify the different entities that we need to store data for, and then create tables accordingly using Cassandra query language.
 
 
  First we create a KEYSPACE.and then use the database.the database is college_managenent_system
@@ -176,7 +176,7 @@ SEARCH TABLE
 
 CONCLUSION
      
-      This readme file explain about how to create tables using cassendra query language and perform opreations like insert,delete,update and search.
+ This readme file explain about how to create tables using cassandra query language and perform opreations like insert,delete,update and search.
 
 
 
